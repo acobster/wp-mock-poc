@@ -1,0 +1,12 @@
+{
+    "name": "acobster/wp-mock-poc",
+    "authors": [
+        {
+            "name": "Coby Tamayo",
+            "email": "ctamayo@sitecrafting.com"
+        }
+    ],
+    "require": {
+        "10up/wp_mock": "0.3.0"
+    }
+}
